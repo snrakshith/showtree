@@ -1,7 +1,7 @@
 {
   "name": "showtree",
   "version": "1.0.0",
-  "description": "A Node Program to detect files & folders",
+  "description": "A Program to display files & folders in the current execution context",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
